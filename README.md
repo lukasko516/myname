@@ -1,1 +1,2 @@
 # myname
+print hello world
